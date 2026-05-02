@@ -23,7 +23,7 @@
 
 #### Clone
 
-- Clone this repo with url `https://github.com/Sameer-Dev-97/Chatify`
+- Clone this repo with url `https://github.com/pranjul-dev/Chatify`
 
 ##### Setup
 
